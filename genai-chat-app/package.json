@@ -32,7 +32,6 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:11434",
   "homepage": ".",
   "license": "MIT"
 }
